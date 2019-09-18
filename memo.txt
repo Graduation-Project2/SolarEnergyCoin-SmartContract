@@ -4,6 +4,11 @@ https://ropsten.etherscan.io/token/0xef1c2d8e7c819ff2fa8eae40e27b53f9c676735c
 SmartContract
 https://ropsten.etherscan.io/address/0xef1c2d8e7c819ff2fa8eae40e27b53f9c676735c
 
+판매자가 관리한테 토큰요청
+구매자가 토큰 산다고 하고 토큰은 다시 관리자에게로 끝
+
+===============================
+
 관리자한테 토큰은 1이더주고 담보로 구입
 
 구매자가 가격의 두배로 구매하면서 

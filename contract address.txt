@@ -1,5 +1,0 @@
-Token
-https://ropsten.etherscan.io/token/0xef1c2d8e7c819ff2fa8eae40e27b53f9c676735c
-
-SmartContract
-https://ropsten.etherscan.io/address/0xef1c2d8e7c819ff2fa8eae40e27b53f9c676735c
